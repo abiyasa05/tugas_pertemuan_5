@@ -1,12 +1,15 @@
-# Jobsheet Widget
+<div align="center">
+  <h3 align="center">PEMROGRAMAN MOBILE</h3>
+  <h3 align="center">JOBSHEET WIDGET</h3>
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="assets/logo_polinema.png" alt="Logo" width="300" height="300">
+  </a>
 
-Nama  : Abiyasa Putra Prasetya
-
-Kelas : TI 3G
-
-No    : 01
-
-Nim   : 2141720203
+  <h3 align="center">Abiyasa Putra Prasetya</h3>
+  <h3 align="center">3G - D4TI</h3>
+  <h3 align="center">01</h3>
+  <h3 align="center">2141720203</h3>
+</div>
 
 # Praktikum 3: Menerapkan Widget Dasar
 Langkah 1: Text Widget
